@@ -1,5 +1,7 @@
 #inclue<stdio.h>
 voi main()
 {
-int a,b;
+float a,b,c;
+c=a+b;
+cout<<"Answer is,c";
 }
